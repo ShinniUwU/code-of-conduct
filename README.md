@@ -16,5 +16,6 @@ We do not support discrimination of any forms in the Archcord community. This in
 
 **Punishment Escalation Procedure:**
 
-For first cases of discrimination, for example backhanded comments, members will be brought into tickets and asked to correct their behaviour. Failure to comply may result in removal from the Archcord community.<br>
+For first cases of discrimination, for example backhanded comments, members will be brought into tickets and asked to correct their behaviour. Failure to comply may result in removal from the Archcord community.
+
 For severe first cases or repeat cases, bans will be issued to members who show discriminitory behaviour. This includes slurs and explicit discrimination.
