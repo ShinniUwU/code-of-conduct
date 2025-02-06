@@ -19,3 +19,22 @@ We do not support discrimination of any forms in the Archcord community. This in
 For first cases of discrimination, for example backhanded comments, members will be brought into tickets and asked to correct their behaviour. Failure to comply may result in removal from the Archcord community.
 
 For severe first cases or repeat cases, bans will be issued to members who show discriminitory behaviour. This includes slurs and explicit discrimination.
+
+
+## 1.2 - Age Requirements
+By joining the Archcord community you agree that you are at least 13 years old as per the Discord Terms of Service. However, this does not mean that you can make explicit jokes due to members in the server being over 13. Please refer to Rule 1.3.
+
+**Punishment Escalation Procedure:**
+
+If you are found to be under 13, you will be banned from the community for at minimum 3 years. There are no exceptions to this ban and it cannot be appealed.
+
+
+## 1.3 - Safe for Work Environment
+We would like to keep Archcord a safe environment for all and so as part of that we do not want any content considered Sexually Explicit or Not Safe For Work in our community. 
+
+### 1.3.1 - Sexually Explicit Messages
+- Any messages sent by members must be safe for work. Explicit content must not be shared through images, videos or similar.
+
+**Punishment Escalation Procedure:**
+
+If you are found to be under 13, you will be banned from the community for at minimum 3 years. There are no exceptions to this ban and it cannot be appealed.
