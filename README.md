@@ -11,6 +11,9 @@ By joining the Archcord community, you not only agree to this code of conduct as
 
 ---
 
+# Section 1 - General Community Policies
+These are the general policies which you agree to by joining our community.
+
 ## 1.1 - Discrimination
 We do not support discrimination of any forms in the Archcord community. This includes transphobia, homophobia, xenophobia, racism and other non described forms of discrimination. This is an inclusive community and if you are found to be discriminating against a group of people in the Archcord community may result in punishment at a moderators discression.
 
@@ -48,3 +51,29 @@ We would like to keep Archcord a safe environment for all and so as part of that
 
 On first offences, members who post offending content will be ticketed, unless at moderators discression posted content is deemed severe at which a moderator holds the right to remove a member from the community effective immediately, see Rule 2.1.
 For continued offences, moderators may timeout, mute, kick or ban members depending on severity and severity and frequency of the content posted.
+
+## 1.4 - Anti Elitism
+Elitism is not acceptable in the Archcord community. No distribution is better than the other and our goal here is to help out newer members of the linux community. Telling members to "RTFM" or "Read the Fucking Manual" is not acceptable and will result in a ticket and potential punishment.
+
+**Punishment Escalation Procedure:**
+
+Members will be ticketed on their first offences and their behaviour will be brought up. Continued instances of this behaviour may result in removal from the community.
+
+## 1.5 - Cross-Server Drama
+At Archcord we like to keep a friendly community with a lack of politics and so as part of that we would like to keep drama from other communities out of our community.
+
+**Punishment Escalation Procedure:**
+
+The first case of cross server drama may result in a ticket and a member being corrected on their behaviour. Continued offences may result in removal from the community.
+
+# Section 1 - Moderation Policies
+These are the moderation policies which the stafff team follow and you adknowledge by joining our community.
+
+## 2.1 - Moderator Discression
+Moderators hold the power to remove members, with good reason, from the community at any time. However, as a member you hold the power to communicate with the moderation team if you disagree with a staff members punishment. Moderator Discression does not mean a staff member can remove any member they want for any reason and if misconduct is found a staff member may be removed.
+
+## 2.2 - Moderation Transparency
+At Archcord, we hold an open policy regarding moderation with all our moderation logs publicly viewable by all members in our community allowing members to criticise punishments for any reason they see fit. We ask that community members open this in a ticket channel instead of the general channels to prevent community disruption.
+
+## 2.3 - Administrator Insuitability
+If the community deems an administrator to be unfit at any point, they must retract from their position and allow the community to vote on a fit successor. A 30-day window between the administrator being removed and the new administrator coming into effect, where the previous administrator retains power is used to allow the community time to decide on a new administrator. For this policy to go through, at minimum 90% of the **TOTAL** community must agree in a public poll to this going ahead. For example if the community consists of 1000 members, 900 must agree to this.
