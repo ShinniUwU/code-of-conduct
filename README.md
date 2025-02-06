@@ -66,7 +66,21 @@ At Archcord we like to keep a friendly community with a lack of politics and so 
 
 The first case of cross server drama may result in a ticket and a member being corrected on their behaviour. Continued offences may result in removal from the community.
 
-# Section 1 - Moderation Policies
+## 1.6 - Personally Identifiable Information
+Members must not share other members personal information, this includes real names if the member does not wish for it to be shared, phone numbers, emails, addresses, locations and other information of sensitivity.
+
+**Punishment Escalation Procedure:**
+
+Depending on severity a member may be ticketed or removed from the community effective immediately.
+
+## 1.7 - Discussion of piracy.
+As per the Discord Terms of Service, piracy must not be promoted in Archcord. While it is a discussable topic, we ask that you do not share sources, resources or links. If you do discuss piracy, please do it carefully as if a moderator deems your conversation to contain sources/links removal from the community is possible.
+
+**Punishment Escalation Procedure:**
+
+Depending on severity a member may be ticketed or removed from the community effective immediately.
+
+# Section 2 - Moderation Policies
 These are the moderation policies which the stafff team follow and you adknowledge by joining our community.
 
 ## 2.1 - Moderator Discression
