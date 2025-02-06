@@ -14,7 +14,7 @@ By joining the Archcord community, you not only agree to this code of conduct as
 ### 1.1 - Discrimination
 We do not support discrimination of any forms in the Archcord community. This includes transphobia, homophobia, xenophobia, racism and other non described forms of discrimination. This is an inclusive community and if you are found to be discriminating against a group of people in the Archcord community may result in punishment at a moderators discression.
 
-Punishment Escalation Procedure:
+**Punishment Escalation Procedure:**
 
 For first cases of discrimination, for example backhanded comments, members will be brought into tickets and asked to correct their behaviour. Failure to comply may result in removal from the Archcord community.<br>
 For severe first cases or repeat cases, bans will be issued to members who show discriminitory behaviour. This includes slurs and explicit discrimination.
