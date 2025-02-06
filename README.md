@@ -35,6 +35,16 @@ We would like to keep Archcord a safe environment for all and so as part of that
 ### 1.3.1 - Sexually Explicit Messages
 - Any messages sent by members must be safe for work. Explicit content must not be shared through images, videos or similar.
 
+### 1.3.2 - Sexually Explicit User Profiles
+- User profiles which are viewable in this community must conform to our safe for work guidelines and must be suitable for a community with minors.
+
+### 1.3.3 - Animal Abuse, Gore and Excessive Violence.
+- Do not share content which has animal abuse, gore or an excessive amount of violence.
+
+### 1.3.4 - Self Harm and Suicide
+- Content which depicts self harm, or suicide is not accepted in this community and will be removed. Using self-harm for manipulative purposes will result in immediate removal from the community.
+  
 **Punishment Escalation Procedure:**
 
-If you are found to be under 13, you will be banned from the community for at minimum 3 years. There are no exceptions to this ban and it cannot be appealed.
+On first offences, members who post offending content will be ticketed, unless at moderators discression posted content is deemed severe at which a moderator holds the right to remove a member from the community effective immediately, see Rule 2.1.
+For continued offences, moderators may timeout, mute, kick or ban members depending on severity and severity and frequency of the content posted.
