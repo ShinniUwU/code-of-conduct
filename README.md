@@ -82,7 +82,7 @@ As per the Discord Terms of Service, piracy must not be promoted in Archcord. Wh
 Depending on severity a member may be ticketed or removed from the community effective immediately.
 
 # Section 2 - Moderation Policies
-These are the moderation policies which the stafff team follow and you adknowledge by joining our community.
+These are the moderation policies which the staff team follow and you adknowledge by joining our community.
 
 ## 2.1 - Moderator Discression
 Moderators hold the power to remove members, with good reason, from the community at any time. However, as a member you hold the power to communicate with the moderation team if you disagree with a staff members punishment. Moderator Discression does not mean a staff member can remove any member they want for any reason and if misconduct is found a staff member may be removed.
