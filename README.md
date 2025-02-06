@@ -11,7 +11,7 @@ By joining the Archcord community, you not only agree to this code of conduct as
 
 ---
 
-### 1.1 - Discrimination
+## 1.1 - Discrimination
 We do not support discrimination of any forms in the Archcord community. This includes transphobia, homophobia, xenophobia, racism and other non described forms of discrimination. This is an inclusive community and if you are found to be discriminating against a group of people in the Archcord community may result in punishment at a moderators discression.
 
 **Punishment Escalation Procedure:**
