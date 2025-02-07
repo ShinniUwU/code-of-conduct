@@ -77,7 +77,7 @@ Members must not share other members personal information, this includes real na
 Depending on severity a member may be ticketed or removed from the community effective immediately.
 
 
-## 1.7 - Discussion of piracy.
+## 1.7 - Discussion of Piracy
 As per the Discord Terms of Service, piracy must not be promoted in Archcord. While it is a discussable topic, we ask that you do not share sources, resources or links. If you do discuss piracy, please do it carefully as if a moderator deems your conversation to contain sources/links removal from the community is possible.
 
 **Punishment Escalation Procedure:**
@@ -126,8 +126,10 @@ These are the moderation policies which the staff team follow and you adknowledg
 ## 3.1 - Moderator Discression
 Moderators hold the power to remove members, with good reason, from the community at any time. However, as a member you hold the power to communicate with the moderation team if you disagree with a staff members punishment. Moderator Discression does not mean a staff member can remove any member they want for any reason and if misconduct is found a staff member may be removed.
 
+
 ## 3.2 - Moderation Transparency
 At Archcord, we hold an open policy regarding moderation with all our moderation logs publicly viewable by all members in our community allowing members to criticise punishments for any reason they see fit. We ask that community members open this in a ticket channel instead of the general channels to prevent community disruption.
+
 
 ## 3.3 - Administrator Insuitability
 If the community deems an administrator to be unfit at any point, they must retract from their position and allow the community to vote on a fit successor. A 30-day window between the administrator being removed and the new administrator coming into effect, where the previous administrator retains power is used to allow the community time to decide on a new administrator. For this policy to go through, at minimum 90% of the **TOTAL** community must agree in a public poll to this going ahead. For example if the community consists of 1000 members, 900 must agree to this.
