@@ -133,3 +133,7 @@ At Archcord, we hold an open policy regarding moderation with all our moderation
 
 ## 3.3 - Administrator Insuitability
 If the community deems an administrator to be unfit at any point, they must retract from their position and allow the community to vote on a fit successor. A 30-day window between the administrator being removed and the new administrator coming into effect, where the previous administrator retains power is used to allow the community time to decide on a new administrator. For this policy to go through, at minimum 90% of the **TOTAL** community must agree in a public poll to this going ahead. For example if the community consists of 1000 members, 900 must agree to this.
+
+
+## 3.4 - Administrator Privilege
+At any point an administrator may remove a member from the community if they are deemed unfit for the community, regardless of complicance with Code of Conduct. This rule cannot be abused and can be challenged at any time by a member however an administrator is not required to disclose information if the topic is of a sensitive matter.
